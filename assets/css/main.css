@@ -8581,3 +8581,8 @@ input, select, textarea {
 .inner, .gallery.style2.medium.lightbox.onscroll-fade-in{
 	display: none;
 }
+
+footer{
+	margin-top: 15px;
+	padding-top: 15px;
+}
